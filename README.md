@@ -2,9 +2,8 @@
 # The Impact of Deep Learning in Grammar Correction
 
 Grammatical Error Correction(GEC) refers to detecting
-poor grammar and correcting it accordingly. These errors include spelling, incorrect use of articles, prepositions, pronouns,
-nouns, and poor sentence correction. This classifies GEC as an
-NLP task. In recent years, NLP has made significant advancements due to the integration of various ML and DL models.
+poor grammar and correcting it accordingly. These errors include spelling, incorrect use of articles, prepositions, pronouns,
+nouns, and poor sentence correction.In recent years, NLP has made significant advancements due to the integration of various ML and DL models.
 This helps propel the field of Grammatical Error Correction to
 new heights and opens doors to various innovative applications
 in language processing. This work shows the application of the
