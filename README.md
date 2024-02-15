@@ -30,7 +30,7 @@ written by language learners who used the Lang-8 platform to
 practice their writing skills. The NARA Institute of Science
 and Technology (NAIST) makes the corpus publicly available
 for the 14th BEA Shared Task
-The dataset is accessible through the  
+The dataset is accessible through the  NAIST website.
 
 [Dataset Source](https://sites.google.com/site/naistlang8corpora)
 
