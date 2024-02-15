@@ -34,3 +34,7 @@ The dataset is accessible through the
 
 [Dataset Source](https://sites.google.com/site/naistlang8corpora)
 
+
+## Authors
+- [@Jayant Toleti](https://github.com/JayantToleti)
+- [@Amirthavarshini V](https://github.com/Amirtha2503)
